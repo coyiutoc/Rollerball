@@ -7,4 +7,4 @@ to collect as many floating cubes before reaching the end of the maze.
 
 ## Getting Started
 
-Open Rollerball.app. 
+For iOS, open Rollerball application in Rollerball.app/Contents/MacOS/Rollerball.
